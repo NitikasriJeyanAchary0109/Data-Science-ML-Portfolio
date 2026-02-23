@@ -1,26 +1,27 @@
 # Data-Science-ML-Portfolio
 A structured collection of Machine Learning, Data Science, and ML Engineering projects built using real-world datasets, end-to-end pipelines, model evaluation techniques, and deployment frameworks such as Streamlit and Flask.
 This portfolio demonstrates strong foundations in supervised learning, unsupervised learning, model optimization, and deployment-ready machine learning systems.
+
 Repository Structure
-This portfolio is organized into:
-Core Machine Learning Concepts
-Supervised Learning
-Unsupervised Learning
-ML Engineering & Optimization
-Deployment & Production Practices
-Core Machine Learning Concepts
-Supervised vs Unsupervised Learning
-Overfitting vs Underfitting
-Bias–Variance Tradeoff
-Model Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1-score
-R²
-MAE
-MSE
-RMSE
+   This portfolio is organized into:
+      Core Machine Learning Concepts
+           Supervised Learning
+           Unsupervised Learning
+      ML Engineering & Optimization
+      Deployment & Production Practices
+      Core Machine Learning Concepts
+           Supervised vs Unsupervised Learning
+           Overfitting vs Underfitting
+           Bias–Variance Tradeoff
+      Model Evaluation Metrics
+           Accuracy
+           Precision
+           Recall
+           F1-score
+           R²
+           MAE
+           MSE
+           RMSE
 Cross Validation (K-Fold)
 Hyperparameter Tuning
 Feature Engineering
